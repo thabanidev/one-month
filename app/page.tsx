@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <main className="flex min-h-screen text-center flex-col items-center justify-center gap-6 p-10 md:p-24">
       <Image
-        src="/assets/images/logo.png"
-        alt="One Month Logo"
+        src="/images/logo.png"
+        alt="Logo"
         width={280}
         height={280}
       />
@@ -18,7 +18,6 @@ export default function Home() {
       <Link href="/sign-in">
         <Button className="bg-primary text-xl p-8 font-black" >Get Started</ Button>
       </Link>
-
     </main>
   );
 }
