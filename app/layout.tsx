@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   icons: [
     {
       rel: "shortcut icon",
-      url: "/images/logo.png",
+      url: "/images/logo-bg.jpeg",
     },
     {
       rel: "apple-touch-icon",
