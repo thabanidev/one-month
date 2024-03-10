@@ -7,7 +7,7 @@ export default function Home() {
     <main className="flex min-h-screen text-center flex-col items-center justify-center gap-6 p-10 md:p-24">
       <Image
         src="/images/logo.png"
-        alt="Logo"
+        alt="logo"
         width={280}
         height={280}
       />
